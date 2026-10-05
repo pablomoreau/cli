@@ -56,3 +56,4 @@ Notes and usage details for cli.
 - link the usage section
 - add a note about the defaults
 - fix a small wording issue
+- add a note about the defaults
